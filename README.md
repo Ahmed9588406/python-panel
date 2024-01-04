@@ -11,3 +11,6 @@ To serve the dashboard locally, use the command
 
   ## About dataset
   Carbon dioxide emissions are the primary driver of global climate change. It’s widely recognised that to avoid the worst impacts of climate change, the world needs to urgently reduce emissions. But, how this responsibility is shared between regions, countries, and individuals has been an endless point of contention in international discussions.
+
+  
+![157565990-3e36c238-5bda-43d7-8bab-56c9c1984ddb](https://github.com/Ahmed9588406/python-panel/assets/101478632/6211860f-b2f9-4e48-9033-c33fb7d4ee2c)
